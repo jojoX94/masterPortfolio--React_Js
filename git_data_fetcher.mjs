@@ -4,6 +4,9 @@ import dotenv from "dotenv";
 
 dotenv.config();
 
+console.log(' GITHUB_TOKEN: ', process.env.GITHUB_TOKEN);
+console.log(' GITHUB_USERNAME: ', process.env.GITHUB_USERNAME);
+
 const openSource = {
   githubConvertedToken: process.env.GITHUB_TOKEN,
   githubUserName: process.env.GITHUB_USERNAME,

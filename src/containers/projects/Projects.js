@@ -63,6 +63,7 @@ export default function Projects() {
   }
 
   function setrepoFunction(array) {
+    console.log(array);
     setrepo(array);
   }
 
