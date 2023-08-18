@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1QADcPqAZiWgDEIFnR0Ffoyfn7dpy4QyQ/view?usp=drive_link",
+    "https://drive.google.com/drive/u/0/folders/13N6NCDXXV5i0g0fkTd8ZLS3jTc4rs4H5",
   portfolio_repository: "https://github.com/jojoX94/masterPortfolio--React_Js",
   githubProfile: "https://github.com/jojoX94/",
 };
@@ -502,7 +502,7 @@ const contactPageData = {
       "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
+    title: "",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
     link: "https://blogs.ashutoshhathidara.com/",
@@ -510,15 +510,15 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    subtitle: "Mandroseza, Antananarivo, Madagascar",
+    locality: "Mandroseza",
+    country: "MDG",
+    region: "Tana",
+    postalCode: "TANA-101",
+    streetAddress: "",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link:
+      "https://www.google.com/maps/place/Mandroseza,+Antananarivo/@-18.9374673,47.5477345,15.88z/data=!4m6!3m5!1s0x21f07db96c1dc273:0xd9a26ad8570bd2d1!8m2!3d-18.9357169!4d47.5502562!16s%2Fg%2F1tfysm_l?entry=ttu",
   },
   phoneSection: {
     title: "",
