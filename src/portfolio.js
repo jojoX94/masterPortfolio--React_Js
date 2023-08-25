@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1oYP2Drd_RVgJhrIhCT-u_IkCLfBx19wj/view?usp=sharing",
+    "https://drive.google.com/file/d/13rRKfYvgVfWW58VPRvqKKuBZaGyXE6do/view?usp=sharing",
   portfolio_repository: "https://github.com/jojoX94/masterPortfolio--React_Js",
   githubProfile: "https://github.com/jojoX94/",
 };
@@ -396,7 +396,7 @@ const degrees = {
     {
       title: "National Tele-Education Center of Madagascar",
       subtitle: "M.S. in Software Science",
-      logo_path: "esmia_logo.png",
+      logo_path: "cntemad_logo.png",
       alt_name: "CNTEMAD Logo",
       duration: "2021 - 2023",
       descriptions: [
