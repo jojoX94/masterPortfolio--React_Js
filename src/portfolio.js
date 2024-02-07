@@ -431,7 +431,7 @@ const experience = {
           company: "Madiapps & FuturMap Data",
           company_url: "https://www.madiapps.com/",
           logo_path: "futurmap_logo.png",
-          duration: "Juillet 2022 - Now",
+          duration: "Juillet 2022 - September 2023",
           location: "Antananarivo, Madagascar",
           description:
             "I have undertaken the design and development of a React Native-based cross-platform prospect management application, alongside creating a mobile app for capturing, editing, and processing GoPro images. Moreover, I've participated in the development of a mobile e-commerce platform for a corporate client, which has provided me valuable experience in diverse app scenarios and collaborative team-based software architecture.",
@@ -459,14 +459,14 @@ const experience = {
       title: "Volunteerships",
       experiences: [
         {
-          title: "Google Explore ML Facilitator",
-          company: "Google",
-          company_url: "https://about.google/",
-          logo_path: "google_logo.png",
-          duration: "June 2019 - April 2020",
-          location: "Hyderabad, Telangana",
+          title: "Coach & Mentor for web development",
+          company: "CodeTech Group",
+          company_url: "https://www.facebook.com/codetech.mg",
+          logo_path: "codeteck_logo.jpg",
+          duration: "October 2021 - Janvier 2022",
+          location: "Antananarivo, Madagascar",
           description:
-            "Explore Machine Learning (ML) is a Google-sponsored program for university students to get started with Machine Learning. The curriculum offers 3 tracks of ML Content (Beginner, Intermediate, Advanced) and relies on university student facilitators to train other students on campus and to build opensource projects under this program.",
+            "I have been a coach and mentor for web development for the CodeTech Group, where I have been teaching and mentoring web development to students.",
           color: "#4285F4",
         },
       ],
