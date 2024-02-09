@@ -510,15 +510,15 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Mandroseza, Antananarivo, Madagascar",
-    locality: "Mandroseza",
-    country: "MDG",
-    region: "Tana",
-    postalCode: "TANA-101",
-    streetAddress: "",
+    subtitle: "Québec City, Quebec, Canada",
+    locality: "Québec City",
+    country: "CA",
+    region: "QC",
+    postalCode: "G2A 1V9",
+    streetAddress: "1928 Rue Auguste Renoir",
     avatar_image_path: "address_image.svg",
     location_map_link:
-      "https://www.google.com/maps/place/Mandroseza,+Antananarivo/@-18.9374673,47.5477345,15.88z/data=!4m6!3m5!1s0x21f07db96c1dc273:0xd9a26ad8570bd2d1!8m2!3d-18.9357169!4d47.5502562!16s%2Fg%2F1tfysm_l?entry=ttu",
+      "https://www.google.com/maps/place/1928+Rue+Auguste+Renoir,+Québec+City,+QC+G2A+1V9",
   },
   phoneSection: {
     title: "",
