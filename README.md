@@ -173,6 +173,7 @@ Therefore, this part of portfolio is not customizable. But don't worry we have a
 **Option 1:**
 
 - Run `npm run build` to generate the production build folder.
+- Follow the instructions provided in the README file of your existing build folder on your local machine or in your GitHub repository. If the README file does not exist, you can proceed with the following steps.
 - Enter the build folder, `git init` and push the generated code to the `master` branch of your new repository on github. That's it. It's Done.
 - You may need to `git init` and force push at every new build.
 
